@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(71, 138, 160);
+    text-align: center;
+}
+
+#buttoon {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(136, 255, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
